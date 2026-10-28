@@ -1,0 +1,54 @@
+{
+  "student": {
+    "name": "Zi",
+    "student_id": "CS2026-001",
+    "course": "BSc Computer Science",
+    "year": "Second Year",
+    "goal": "Become a good engineer",
+    "attendance": 85
+  },
+  "subjects": [
+    {
+      "name": "Python Programming",
+      "marks": 85.0,
+      "attendance": 92.0
+    },
+    {
+      "name": "Statistics",
+      "marks": 70.0,
+      "attendance": 80.0
+    },
+    {
+      "name": "Machine Learning",
+      "marks": 95.0,
+      "attendance": 75.0
+    },
+    {
+      "name": "Database Systems",
+      "marks": 45.0,
+      "attendance": 75.0
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Python mini project",
+      "subject": "Python Programming",
+      "due": "2026-11-05",
+      "done": false
+    },
+    {
+      "title": "Statistics assignment",
+      "subject": "Statistics",
+      "due": "2026-11-08",
+      "done": false
+    }
+  ],
+  "skills": {
+    "Python": 3,
+    "Statistics": 2,
+    "SQL": 2,
+    "Communication": 3,
+    "Machine Learning": 1
+  },
+  "papers": []
+}
