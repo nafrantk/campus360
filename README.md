@@ -1,4 +1,4 @@
-# Campus360 – Student Academic Companion 🌿
+# Campus360
 
 ## About the Project
 
